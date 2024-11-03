@@ -1,0 +1,20 @@
+num1=2
+num2=4
+num3=6
+# calcuiate sum
+sum=num1+num2+num3
+print("sum:",sum)
+#Calculate diffrence
+diffrence=num1 -num2 _ num3
+print("diffrence:",diffrence)
+#calculate product
+product=num1 *num2 *num3
+print("product:",product)
+ #Calculate average
+average= (num1 +num2 +num3) /3
+print("average:",average)
+#areea of triangle 
+breath=2
+height=5
+area=0.5 *breath*height      
+ print('triangle area',area)     
